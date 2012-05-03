@@ -3,6 +3,12 @@
 *.a
 *.so
 
+# Emacs back up
+*~
+
+# mac bs
+.DS_Store
+
 # Folders
 _obj
 _test
